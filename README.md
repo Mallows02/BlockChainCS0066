@@ -62,7 +62,8 @@ contract MyToken {
 ## Author
 
 John Mherwin Flores Mariñas
-Bachelor of Science in Computer Science with Specialization in Software Engineering
+
+ Bachelor of Science in Computer Science with Specialization in Software Engineering
 202110657@fit.edu.ph
 
 
