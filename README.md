@@ -64,9 +64,10 @@ contract MyToken {
 John Mherwin Flores Mariñas
 
  Bachelor of Science in Computer Science with Specialization in Software Engineering
-202110657@fit.edu.ph
+
+ 202110657@fit.edu.ph
 
 
 ## License
 
-This project is licensed under the John Mherwin Flores Mariñas - see the LICENSE.md file for details
+This project is licensed under John Mherwin Flores Mariñas - see the LICENSE.md file for details
