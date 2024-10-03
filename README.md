@@ -69,4 +69,6 @@ John Mherwin Flores Mariñas
 
 ## License
 
-This project is licensed under the John Mherwin Flores Mariñas - see the LICENSE.md file for details
+This project is licensed under the John Mherwin Flores Mariñas 
+
+- see the LICENSE.md file for details
